@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @liborty, an 'old timer' programmer
 - 👀 I’m interested in Rust, Maths, Encryption, Trading Apps, Data Analysis, E-democracy, ... 
 - 🌱 I’m currently learning Rust (this one is forever)
-- 💞️ I am the author and maintainer of the Rust crate https://crates.io/crates/rstats
+- 💞️ I am the author and maintainer of the Rust crates:
+  * https://crates.io/crates/rstats
+  * https://crates.io/crates/indxvec
 - 📫 How to reach me: liborty@github.com
 
 <!---
