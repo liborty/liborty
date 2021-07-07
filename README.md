@@ -4,6 +4,7 @@
 - 💞️ I am the author and maintainer of the Rust crates:
   * https://crates.io/crates/rstats
   * https://crates.io/crates/indxvec
+  * https://crates.io/crates/sets
 - 📫 How to reach me: liborty@github.com
 
 <!---
