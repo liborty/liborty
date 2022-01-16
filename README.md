@@ -6,7 +6,6 @@
   * https://crates.io/crates/rstats
   * https://crates.io/crates/indxvec
   * https://crates.io/crates/sets
-- 🌱 I am still improving my rusty Rust skills :neckbeard:
 - 📫 How to reach me: liborty@github.com
 
 <!---
