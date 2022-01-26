@@ -1,14 +1,11 @@
-- 👋 Hi, I’m @liborty, an 'old timer' programmer living in 🇦🇺
+- 👋 Hi, I’m an 'old timer' programmer, currently living in 🇦🇺
 - 👀 I’m interested in Maths, Encryption, Trading Apps, Data Analysis, E-democracy, ... 
-- :book: Here are some of my [blogs](https:oldmill.cz)
-- ⌛ Some of my interests are reflected in the repositories here, written variously in: Rust, Javascript, Bash and C.
-- 💞️ Additionally, I am the author, developer and maintainer of the following Rust crates, also available on [crates.io](https://crates.io) and [lib.rs](https://lib.rs):
-  * https://crates.io/crates/rstats
-  * https://crates.io/crates/indxvec
-  * https://crates.io/crates/sets
+- :book: Here is my book: 🔖 [Bash for Fun](https://leanpub.com/bashforfun) :bookmark: - if you with to support me, just buy the book and enjoy, thank you
+- ⌛ Some of my interests are reflected in the repositories here, written variously in: Rust, Bash, Javascript, and C.
+- 💞️ Additionally, I am the author, developer and maintainer of the following `Rust Crates`, also available on [crates.io](https://crates.io) and [lib.rs](https://lib.rs):
+  * [rstats](https://lib.rs/crates/rstats) - currently ranked by lib.rs at #4 worldwide in Machine Learning
+  * [indxvec](https://lib.rs/crates/indxvec)
+  * [sets](https://lib.rs/crates/sets)
+  * [medians](https://lib.rs/crates/medians)
+- 🖊️ Some of my [blogs](https:oldmill.cz)
 - 📫 How to reach me: liborty@github.com
-
-<!---
-liborty/liborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
