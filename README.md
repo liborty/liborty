@@ -1,6 +1,6 @@
 - 👋 Hi, I’m an 'old timer' programmer, currently living in 🇦🇺
 - 👀 I’m interested in Maths, Data Analysis, Encryption, Trading Apps, E-democracy, ... 
-- :book: Here is my book: 🔖 [Bash for Fun](https://leanpub.com/bashforfun) :bookmark: - if you with to support me, just buy the book and enjoy, thank you
+- :book: Here is my book: 🔖 [Bash for Fun](https://leanpub.com/bashforfun) :bookmark: - if you wish to support me, just buy the book and enjoy, thank you!
 - ⌛ Some of my interests are reflected in the repositories here, written variously in: Rust, Bash, Javascript, and C.
 - 💞️ I am the author, developer and maintainer of the following `Rust Crates`, also available on [crates.io](https://crates.io) and [lib.rs](https://lib.rs):
   * [rstats](https://lib.rs/crates/rstats) - currently ranked by lib.rs at #3 worldwide in Machine Learning
