@@ -7,8 +7,8 @@
   * [rstats](https://lib.rs/crates/rstats) - #3 in [Machine Learning](https://lib.rs/science/ml)
   * [indxvec](https://lib.rs/crates/indxvec) - #39 in [Data Structures](https://lib.rs/data-structures)
   * [ran](https://lib.rs/crates/ran) - #50 in [Testing](https://lib.rs/development-tools/testing)
-  * [sets](https://lib.rs/crates/sets) - #84 in [Algorithms](https://lib.rs/algorithms)
-  * [medians](https://lib.rs/crates/medians) - #206 in [Math](https://lib.rs/math)
+  * [sets](https://lib.rs/crates/sets) - #60 in [Algorithms](https://lib.rs/algorithms)
+  * [medians](https://lib.rs/crates/medians) - #174 in [Math](https://lib.rs/math)
  
 - 🖊️ Some of my [blogs](https:oldmill.cz)
 - 📫 How to reach me: liborty@github.com
