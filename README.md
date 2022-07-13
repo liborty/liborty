@@ -6,10 +6,10 @@
  Note that the quoted lib.rs rankings change all the time:
   * [rstats](https://lib.rs/crates/rstats) - #4 in [Machine Learning](https://lib.rs/science/ml)
   * [indxvec](https://lib.rs/crates/indxvec) - #43 in [Data Structures](https://lib.rs/data-structures)
-  * [ran](https://lib.rs/crates/ran) - #52 in [Testing](https://lib.rs/development-tools/testing)
-  * [sets](https://lib.rs/crates/sets) - #59 in [Algorithms](https://lib.rs/algorithms)
-  * [medians](https://lib.rs/crates/medians) - #171 in [Math](https://lib.rs/math)
-  * [times](https://lib.rs/crates/times)
+  * [ran](https://lib.rs/crates/ran) - #48 in [Testing](https://lib.rs/development-tools/testing)
+  * [sets](https://lib.rs/crates/sets) - #58 in [Algorithms](https://lib.rs/algorithms)
+  * [medians](https://lib.rs/crates/medians) - #168 in [Math](https://lib.rs/math)
+  * [times](https://lib.rs/crates/times) - #56 in [Profiling]https:(//lib.rs/development-tools/profiling)
  
 - 🖊️ Some of my [blogs](https:oldmill.cz)
 - 📫 How to reach me: liborty@github.com
