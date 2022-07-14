@@ -9,7 +9,7 @@
   * [ran](https://lib.rs/crates/ran) - #48 in [Testing](https://lib.rs/development-tools/testing)
   * [sets](https://lib.rs/crates/sets) - #58 in [Algorithms](https://lib.rs/algorithms)
   * [medians](https://lib.rs/crates/medians) - #168 in [Math](https://lib.rs/math)
-  * [times](https://lib.rs/crates/times) - #56 in [Profiling]https:(//lib.rs/development-tools/profiling)
+  * [times](https://lib.rs/crates/times) - #56 in [Profiling](https://lib.rs/development-tools/profiling)
  
 - 🖊️ Some of my [blogs](https:oldmill.cz)
 - 📫 How to reach me: liborty@github.com
