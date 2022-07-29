@@ -1,4 +1,4 @@
-- 👋 Hi, I’m an 'old timer' programmer, currently living in 🇦🇺
+- 👋 Hi, I’m an 'old timer' programmer, living in 🇦🇺
 - 👀 I’m interested in Maths, Data Analysis, Encryption, Trading Apps, E-democracy, ... 
 - :book: Here is my book: 🔖 [Bash for Fun](https://leanpub.com/bashforfun) :bookmark: - if you wish to support me, just buy the book online and enjoy, thank you!
 - ⌛ Some of my interests are reflected in the repositories here, written variously in: Rust, Bash, Javascript, and C.
@@ -10,7 +10,6 @@
   * [ran](https://lib.rs/crates/ran) - #45 in [Testing](https://lib.rs/development-tools/testing)
   * [sets](https://lib.rs/crates/sets) - #53 in [Algorithms](https://lib.rs/algorithms)
   * [medians](https://lib.rs/crates/medians) - #142 in [Math](https://lib.rs/math)
-
  
 - 🖊️ Some of my [blogs](https:oldmill.cz)
 - 📫 How to reach me: liborty@github.com
