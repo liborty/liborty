@@ -12,5 +12,5 @@
   * [sets](https://lib.rs/crates/sets) - #53 in [Algorithms](https://lib.rs/algorithms)
   * [medians](https://lib.rs/crates/medians) - #59 in [Math](https://lib.rs/math)
  
-- 🖊️ Some of my [blogs](https:oldmill.cz)
+- 🖊️ Some of my [blogs](https://oldmill.cz)
 - 📫 How to reach me: liborty@github.com
