@@ -3,5 +3,6 @@
 - ✏️ I am currently writing a new book `Science with Rust`
 - 💞️ My repositories here are written mostly in `Rust` and are directly usable in your code via [crates.io](https://crates.io):
 - 🔗 [rstats](https://crates.io/crates/rstats),  [indxvec](https://crates.io/crates/indxvec),  [medians](https://crates.io/crates/medians),  [times](https://crates.io/crates/times),  [ran](https://crates.io/crates/ran),  [sets](https://crates.io/crates/sets)
+- :clapper: My [presentation](https://www.youtube.com/watch?v=SMYhJQz1iEE&t=624s) at Scientific Computing in Rust, 18th July 2024
   
 - 📫 How to reach me: liborty@github.com
